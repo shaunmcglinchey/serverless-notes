@@ -3,6 +3,9 @@
 ### URL  
 https://shaunmcglinchey.com
 
+### Source code
+Hosted in AWS CodeCommit (for now)
+
 ### Login
 Login using valid Google credentials
 
