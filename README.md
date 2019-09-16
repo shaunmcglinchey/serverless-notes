@@ -1,5 +1,11 @@
 ## Serverless notes web application
 
+### URL  
+https://www.shaunmcglinchey.com
+
+### Login
+Login using valid Google credentials
+
 ### Description
 This simple web application supports CRUD (Create, Read, Update, Delete) of text notes. The frontend is an Angular-based SPA (Single Page Application). The static files are hosted in an S3 bucket and cached at the edge using AWS CloudFront. The backend is comprised of a collection of Node.js-based serverless functions coupled exposed via API Gateway routes that are in turn surfaced using a custom domain. Data is persisted to and retrieved from a document db (AWS DynamoDB). Authentication via Google credentials is supported. AWS resources are created using the Serverless Framework - infrastructure/resources are captured and committed to the source repository, making them easily reproducible.
 
