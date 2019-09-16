@@ -36,6 +36,8 @@ https://www.udemy.com/course/aws-lambda-serverless-architecture
     - Git-based source code repository
 - AWS CodePipeline
     - CI/CD deployment pipeline
+        -   Pipeline for deployment of frontend - SPA 
+        -   Pipeline for deployment of backend - Serverless functions and AWS resources
 - AWS CloudWatch
     - Logging
 - AWS Certificate Manager
